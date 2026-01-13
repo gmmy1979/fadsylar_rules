@@ -10,6 +10,7 @@
 # IP段匹配
 IP-CIDR,192.168.18.0/23,no-resolve
 IP-CIDR,192.168.10.0/23,no-resolve
+IP-CIDR,10.0.0.0/24,no-resolve
 
 
 # 国内DNS
