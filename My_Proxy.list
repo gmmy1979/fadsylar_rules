@@ -1,11 +1,12 @@
 # 代理补充列表
 
+# 域名匹配
+DOMAIN,integrate.api.nvidia.com
+
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-SUFFIX,hongxingyunmovie.vip
-
-# 域名匹配
-DOMAIN,integrate.api.nvidia.com
+DOMAIN-SUFFIX,nvidia.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
